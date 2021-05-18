@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 8"
+author: "Cat, Athena, Ye, Nithya, Christina"
 output: html_document
 ---
 
