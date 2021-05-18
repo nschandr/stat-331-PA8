@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 8"
+author: "Ye Chan Yoo, Cat Phan, Athena Kwok, Christina Dang, Nithya Chandran"
 output: html_document
 ---
 
